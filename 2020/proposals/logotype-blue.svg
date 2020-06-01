@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logotype-blue.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 76.604734 51.814075"
+   height="51.814075mm"
+   width="76.604736mm"
+   inkscape:export-filename="/home/zelitomas/mzcz/mzczred.png"
+   inkscape:export-xdpi="176"
+   inkscape:export-ydpi="176">
+  <defs
+     id="defs2">
+    <rect
+       id="rect859"
+       height="41.606171"
+       width="154.32724"
+       y="52.735062"
+       x="31.987713" />
+    <rect
+       id="rect853"
+       height="23.213793"
+       width="120.00375"
+       y="78.8228"
+       x="162.20271" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="68.558029"
+     inkscape:cx="65.203801"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     lock-margins="false"
+     fit-margin-top="20"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="20" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Vrstva 1"
+     transform="translate(-37.524907,-49.783993)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.556419;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect896"
+       width="138.14441"
+       height="72.37471"
+       x="19.393904"
+       y="40.8764" />
+    <text
+       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect853);"
+       id="text851"
+       xml:space="preserve" />
+    <text
+       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect859);"
+       id="text857"
+       xml:space="preserve" />
+    <g
+       id="g876"
+       transform="matrix(0.69421052,0,0,0.69421052,17.660773,48.589867)">
+      <rect
+         y="30.529827"
+         x="102.53101"
+         height="17.018"
+         width="22.026119"
+         id="rect868"
+         style="fill:#1b75bb;fill-opacity:1;stroke-width:0.52597;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+      <g
+         transform="matrix(0.02975695,0,0,0.02975695,43.018844,30.529826)"
+         id="g850">
+        <rect
+           x="0"
+           y="0"
+           width="2000"
+           height="571.90002"
+           id="rect846" />
+        <path
+           class="st0"
+           d="m 1910.2,410.5 c -3.9,1.1 -7.2,1.7 -10.5,1.7 -11.7,0 -17.2,-5 -17.2,-19.4 V 284.1 c 0,-57.1 -45.5,-84.9 -99.3,-84.9 -41.1,0 -63.2,5 -107.1,22.7 l -9.8,57.6 57.1,6.1 8.1,-28.2 c 11.7,-6.1 23.3,-7.2 38.3,-7.2 40.5,0 41.1,30.5 41.1,56 v 8.3 c -12.8,-1.7 -27.2,-2.2 -41.1,-2.2 -57.1,0 -116.5,14.4 -116.5,76 0,52.1 41,71.6 77.1,71.6 40.5,0 66,-24.4 80.4,-49.9 3.3,30.5 21.6,49.9 54.9,49.9 15.5,0 31.6,-4.4 44.9,-11.7 z m -153.6,-1.6 c -21.6,0 -29.4,-12.8 -29.4,-28.9 0,-27.2 22.2,-34.4 47.7,-34.4 11.6,0 24.4,1.7 36.1,3.3 -1.7,41.7 -28.9,60 -54.4,60 z M 1660.5,72.7 1552.3,454.4 h -70.5 L 1590,72.7 Z m -145.3,0 -108.2,381.7 h -70.4 L 1444.8,72.7 Z m -300.4,131.5 h 74.9 V 294 h -74.9 z m 0,160.3 h 74.9 v 89.9 h -74.9 z m -109,-3.3 56.6,5.5 -15.5,87.7 H 928.3 l -7.2,-37.7 137.6,-158.1 h -78.2 l -11.1,38.8 -51.6,-5.6 8.9,-87.7 h 219.7 l 5.6,37.7 -138.8,158.2 h 81 z m -358.5,-162 c -89.9,0 -134.3,60.5 -134.3,133.7 0,79.9 53.3,127 130.4,127 79.9,0 137.6,-50.5 137.6,-130.4 0,-69.9 -43.9,-130.3 -133.7,-130.3 z M 745.6,405 c -38.8,0 -58.8,-33.3 -58.8,-76.6 0,-47.2 22.7,-74.3 59.4,-74.3 33.8,0 61,22.7 61,73.2 0,47.7 -24.4,77.7 -61.6,77.7 z m -197,-5 h 33.3 v 54.4 H 477 V 313.5 c 0,-43.3 -14.4,-59.9 -42.7,-59.9 -34.4,0 -48.3,24.4 -48.3,59.4 v 87 h 33.3 v 54.4 H 314.5 V 313.5 c 0,-43.3 -14.4,-59.9 -42.7,-59.9 -34.4,0 -48.3,24.4 -48.3,59.4 v 87 h 47.7 v 54.4 H 118.7 V 400 H 152 V 258.5 h -33.3 v -54.4 h 104.8 v 37.7 c 15,-26.6 41.1,-42.7 76,-42.7 36.1,0 69.3,17.2 81.6,53.8 13.9,-33.3 42.2,-53.8 81.6,-53.8 44.9,0 86,27.2 86,86.5 V 400 Z"
+           id="path848" />
+      </g>
+      <text
+         id="text866"
+         y="43.962025"
+         x="103.95765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2342px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.217421"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2342px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';fill:#ffffff;stroke-width:0.217421"
+           y="43.962025"
+           x="103.95765"
+           id="tspan864"
+           sodipodi:role="line">.cz</tspan></text>
+    </g>
+  </g>
+  <style
+     id="style844"
+     type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+</svg>

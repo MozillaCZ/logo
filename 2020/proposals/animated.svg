@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg992"
+   version="1.1"
+   viewBox="44.1015 0 40 31.613487"
+   height="31.613487mm"
+   width="40mm">
+  <defs
+     id="defs986" />
+  <g
+     transform="translate(-29.636646,-29.550399)"
+     id="layer1">
+    <rect
+       style="fill:#ec1c24;fill-opacity:1;stroke:none;stroke-width:0.466746;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect927"
+       width="25.14"
+       height="10.81763"
+       x="79.63665"
+       y="34.5504">
+        <animate attributeName="x" dur="4s" repeatCount="indefinite" calcMode="spline"
+                values="-25.14 ; 79.6 ; 82.7 ; 162.3" keyTimes="0 ; 0.1 ; 0.9 ; 1"/>   
+    </rect>
+    <rect
+       y="45.346256"
+       x="82.707603"
+       height="10.81763"
+       width="25.14"
+       id="rect927-9"
+       style="fill:#1b75bb;fill-opacity:1;stroke:none;stroke-width:0.466746;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">
+      <animate attributeName="x" dur="4s" repeatCount="indefinite" calcMode="spline"
+                values="162.3 ; 82.7 ; 79.6 ; -25.14" keyTimes="0 ; 0.1 ; 0.9 ; 1"/>   
+    </rect>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:19.7556px;line-height:1.25;font-family:'Zilla Slab Highlight';-inkscape-font-specification:'Zilla Slab Highlight Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="85.392342"
+       y="50.047333"
+       id="text925"><tspan
+         id="tspan923"
+         x="85.392342"
+         y="50.047333"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#ffffff;stroke-width:0.264583">m</tspan></text>
+  </g>
+</svg>
